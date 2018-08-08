@@ -7,3 +7,5 @@
 - create in Koa
 - add async/await
 - make *agile for quick mashups*
+
+### gets cors error in editor
